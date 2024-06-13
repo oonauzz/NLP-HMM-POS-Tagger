@@ -4,10 +4,6 @@
 
 Develop a Noun Group tagger, focusing on feature selection rather than the algorithm. 
 
-## Files
-- WSJ_CHUNKFILES.zip: Includes training, development, test, and answer key files.
-- MAX_ENT_files.zip: Contains necessary Java files and scripts for running the MaxEnt trainer and classifier.
-
 ## Steps
 
 - Create a program to process the input files and generate feature-value pairs for the MaxEnt trainer and classifier. Create training.feature from WSJ_02-21.pos-chunk. Create test.feature from WSJ_24.pos.
